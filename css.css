@@ -131,12 +131,12 @@ aside {
   color:#0093de;
 }
 .zimo {
-  margin-left: 10%;
+  margin-left: 2%;
   position: relative;
   left: 600px;
   display: inline;
   padding-right:10px;
-  text-align: center;
+  
   
 
 }
@@ -145,7 +145,7 @@ aside {
 }
 #tupian {
   background-repeat: repeat-x;
-  margin-left: 15%;
+  margin-left: 8%;
   margin-top: 70px;
 }
 #dis {
@@ -154,7 +154,7 @@ aside {
 }
 #tiaki {
   position: relative;
-  left: 320px;
+  left: 170px;
   top: 25px;
 }
 #changtiao {
@@ -162,8 +162,8 @@ aside {
   width: 460px;
   height: 67px;
  position: absolute;
- top: 219%;
- left: 430px;
+ top: 277%;
+ left: 260px;
 }
 .o-button {
   line-height: 1;
@@ -177,28 +177,24 @@ aside {
   background-color: #2db6e8;
   position: relative;
   top: -60px;
-  left: 445px;
+  left: 300px;
 }
 #fangkuai1 {
-  background-color: rgba(0, 0, 0, 70%);
-  width: 66px;
-  height: 66px;
   position: absolute;
-  top: 205%;
-  left: 320px;
+  top: 255%;
+  left: 170px;
 }
 #fangkuai2 {
-  background-color: rgba(0, 0, 0, 70%);
-  width: 66px;
-  height: 66px;
   position: absolute;
-  top: 205%;
-  left: 1534px;  
+  top: 255%;
+  left: 1385px;  
 }
 
 #changtiao2 {
   height: 212px;
   background-color: rgb(247, 247, 247);
+  
+  border-top:1px solid rgb(222, 222, 222);
 }
 #wake {
   padding-top: 20px;
@@ -213,6 +209,74 @@ aside {
 
 #hongse {
   position: absolute;
-  top: 260%;
-  left: 69%;
+  top: 325%;
+  left: 77%;
+}
+#jihua {
+  text-align: center;
+}
+#suoyousvg {
+  margin-left: 250px;
+}
+#suoyousvg p {
+  font-size: 16px;
+}
+#qiche {
+  width: 180px;
+  text-align: center;
+  display: inline-block;
+  padding-right: 100px;
+  position: relative;
+  top: -60px;
+}
+#qiche h2 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+}
+
+.car {
+  width: 80px;
+}
+.zimo2 {
+  font-size: 16px;
+}
+.zimo2 a:link {
+  text-decoration: none;
+}
+.zimo2 a:visited {
+  color:#0093de;
+}
+.zimo2 a:hover {
+  text-decoration: underline;
+  color:#0093de;
+}
+#yun {
+  width: 180px;
+  text-align: center;
+  display: inline-block;
+  padding-right: 100px;
+}
+.weather {
+  width: 80px;
+}
+#yun h2 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.accommodation {
+  width: 80px;
+}
+#chuang {
+  width: 180px;
+  text-align: center;
+  display: inline-block;
+  position: relative;
+  top: -45px;
+}
+.bus {
+  width: 80px;
+}
+#gongjiaoche {
+ width: 180px;
+ text-align: center;
+ display: inline-block;
+ padding-left: 100px;
 }
