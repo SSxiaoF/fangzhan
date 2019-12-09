@@ -69,6 +69,21 @@ aside {
    width: 1920px;
    height: 660px;
 }
+#dafangkuai-waikuang {
+  position: relative;
+}
+#dafangkuai {
+  position: absolute;
+  top: -400px;
+  left: 900px;
+  background-color: rgba(0, 0, 0, 70%);
+  width: 110px;
+  height: 110px;
+}
+.icon-play {
+  width: 55px;
+  margin: 20px 0px 0px 30px;
+}
 #anjian {
   position: absolute;
   margin-left: 66.2%;
@@ -144,8 +159,7 @@ aside {
   text-align: center;
 }
 #tupian {
-  background-repeat: repeat-x;
-  margin-left: 8%;
+  margin-left: 10%;
   margin-top: 70px;
 }
 #dis {
@@ -182,12 +196,12 @@ aside {
   left: 300px;
 }
 #fangkuai1 {
- position: absolute;
- top: 250px;
+  position: absolute;
+  top: 200px;
 }
 #fangkuai2 {
    position: absolute;
-   top: 250px;
+   top: 200px;
    left: 1215px;
 
 }
@@ -219,7 +233,7 @@ aside {
 #hongse {
   position: absolute;
   top: -620px;
-  left: 68%;
+  left: 75%;
   z-index: 1;
 }
 #jihua {
@@ -311,16 +325,14 @@ h3 {
   margin-top: 35px;
 }
 #liangtuo {
-  margin-left: 500px;
+  margin-left: 345px;
   padding-top: 8px;
+  font-size: 13px;
 }
 #xiaohuikuang {
   background-color: rgb(68, 68, 68);
-  height: 20px;
-  width: 80px;
   color: rgb(202, 202, 202);
-  padding-left: 5px;
-  padding-right: 5px;
+  padding: 1px 5px 3px 5px;
   margin-right: 8px;
 }
 #yituohei {
@@ -330,7 +342,7 @@ h3 {
   color: rgb(202, 202, 202);
 }
 #situozi {
-  margin-left:480px;
+  margin-left:325px;
 }
 #situozi h2 {
   margin: 0px 0px 10px 0px;
@@ -425,11 +437,11 @@ h3 {
 #yezisvg {
   float: right;
   margin-top: 50px;
-  margin-right: 480px;
+  margin-right: 650px;
 }
 #zuihoudezi {
   color: #fff;
-  margin: 50px 0px 20px 500px;
+  margin: 50px 0px 20px 345px;
 }
 
 #zuihoudezi a:visited {
@@ -441,6 +453,7 @@ h3 {
   color: #0093de;
 }
 #zuihoudezi a:active{
+  color: #fff;
   text-decoration: none;
 }
 #maotouying {
